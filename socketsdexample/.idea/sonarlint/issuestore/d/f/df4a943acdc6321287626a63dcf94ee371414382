@@ -1,0 +1,21 @@
+
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(ÛÖ ¢8†÷ÆÕ¤,
+Ysquid:UselessImportCheck"0Remove this unused import 'java.io.PrintWriter'.(ÓŞÏÛ8†÷ÆÕ¤,
+Tsquid:UselessImportCheck"+Remove this unused import 'java.util.Date'.(¸…¼ü8†÷ÆÕ¤,
+Ysquid:UselessImportCheck"0Remove this unused import 'sun.rmi.runtime.Log'.(ÛÖ ¢8†÷ÆÕ¤,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÔĞ8ò„„Ö¤,
+Tsquid:S1197"8Move the array designator from the variable to the type.(å¡ûØ8†÷ÆÕ¤,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ê¡Çš8§‡úÕ¤,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(´µÇËşÿÿÿÿ8Â’–Ö¤,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÉáîÅıÿÿÿÿ8†÷ÆÕ¤,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ßˆˆúÿÿÿÿ8Â’–Ö¤,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(©³£İıÿÿÿÿ8“üşÕ¤,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Æ›±½ùÿÿÿÿ8†÷ÆÕ¤,
+qsquid:S1450"URemove the "server" field and declare it as a local variable in the relevant methods.(îè®Ï8†÷ÆÕ¤,
